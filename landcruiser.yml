@@ -440,4 +440,4 @@ dependencies:
     - pyqt5-qt5==5.15.2
     - pyqtwebengine==5.15.6
     - pyqtwebengine-qt5==5.15.2
-prefix: /home/azj/anaconda3/envs/dev_bball_1
+
